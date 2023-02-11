@@ -17,6 +17,8 @@ npm install
 
 npm run dev
 
+npm run build
+
 /////////////////////////////////////////////////
 
 Este projeto depende dos seguintes pacotes:
